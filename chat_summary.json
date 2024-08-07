@@ -36,5 +36,11 @@
         "content": "add a button that says hello word",
         "timestamp": "07082024184119",
         "message_id": "guest07082024184118"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "<button>Hello world</button>",
+        "timestamp": "07082024184119",
+        "message_id": "guest07082024184118"
     }
 ]
