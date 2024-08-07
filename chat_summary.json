@@ -30,5 +30,11 @@
         "content": "Here's the HTML code for a button that says \"Hello World\":\n```\n<button>Hello World</button>\n``` \nYou can copy and paste it into your HTML file wherever you want the button to appear.",
         "timestamp": "07082024184044",
         "message_id": "guest07082024184042"
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hello word",
+        "timestamp": "07082024184119",
+        "message_id": "guest07082024184118"
     }
 ]
