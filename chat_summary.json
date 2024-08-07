@@ -18,5 +18,11 @@
         "content": "Sure! Here's an example of how to add a navbar with navlinks for Home, About, and Contact:\n\n```html\n<nav>\n  <ul>\n    <li><a href=\"#\">Home</a></li>\n    <li><a href=\"#\">About</a></li>\n    <li><a href=\"#\">Contact</a></li>\n  </ul>\n</nav>\n```\n\nIn this example, the `<nav>` element is used to define a navigation bar. Inside the `<nav>` element, we have a `<ul>` element for an unordered list of navlinks. \n\nEach navlink is defined using an `<li>` element and an `<a>` element that contains the text for the link and its href attribute, which specifies the URL to link to.\n\nYou can customize the styling of the navbar using CSS to make it look more appealing and functional.",
         "timestamp": "07082024184030",
         "message_id": "guest07082024184027"
+    },
+    {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "timestamp": "07082024184043",
+        "message_id": "guest07082024184042"
     }
 ]
