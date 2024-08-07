@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sorry, I am an AI language model and I do not have the capability to add a button to your website. However, I can help you with the code to add a submit button in HTML. Here is an example:\n\n```html\n<form>\n  <label for=\"input\">Enter your details:</label>\n  <input type=\"text\" id=\"input\" name=\"input\">\n  <button type=\"submit\">Submit</button>\n</form>\n```\n\nThis will create a form with an input field and a submit button. When the user fills the input field and clicks the Submit button, the form data is submitted to the server. You can customize the input field and button styles using CSS.",
+        "message_id": "guest07082024184130",
+        "timestamp": "07082024184132",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button that says Submit",
         "message_id": "guest07082024184130",
